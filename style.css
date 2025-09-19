@@ -37,7 +37,7 @@ body {
     padding: 0 1.5rem 0 1.5rem;
 }
 
-/* Scrollbar Styling */
+
 .main-content::-webkit-scrollbar {
     width: 8px;
 }
